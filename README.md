@@ -4,7 +4,7 @@
 
 Name : Kawpun
 
-Website : www.kku.acc.th
+Website : https://www.kku.ac.th/th/
 <!--
 **Siwapad/Siwapad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
